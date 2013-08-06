@@ -1,0 +1,23 @@
+c A simple directed graph from the problem solving session
+p sp 6 20 
+c 6 vertices and 20 edges
+a A B 2
+a B A 2
+a A C 4
+a C A 4
+a A D 7
+a D A 7
+a A F 5
+a F A 5
+a B D 6
+a D B 6
+a B E 5
+a E B 5
+a C F 6
+a F C 6
+a D E 6
+a E D 6
+a D F 1
+a F D 1
+a E F 6
+a F E 6
